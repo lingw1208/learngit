@@ -11,5 +11,5 @@ Creating a new branch is quick AND simple.feature1feature1feature1
 Creating a new branch is quick & simple.
 冲突修改11
 
-修改 branch
+修改 branch  修改bug
 
